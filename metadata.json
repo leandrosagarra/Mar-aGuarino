@@ -1,0 +1,6 @@
+{
+  "name": "María Guarino - Masajes y Bienestar",
+  "description": "Sitio web oficial de María Guarino en 25 de Mayo, Buenos Aires. Masajes profesionales, valores corporativos y reserva de turnos integrada con WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
