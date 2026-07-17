@@ -115,9 +115,8 @@ export default function BookingSystem({ selectedServiceId, onClearSelectedServic
     const duration = getSelectedService().duration;
 
     // Formatting physical WhatsApp request string
-    // María's professional phone number (We make it clean, we direct it to a nice Argentine code)
-    // Area code of 25 de Mayo, Prov. de Buenos Aires is 2345
-    const phoneNumber = "5492345412345"; // Configurable or standard local formatting
+    // María's professional phone number (Argentine WhatsApp format: 549 + area code + number)
+    const phoneNumber = "5492216141008";
     
     const formattedMessage = `¡Hola María! 👋 Me gustaría reservar un turno en tu espacio de 25 de Mayo.
 
